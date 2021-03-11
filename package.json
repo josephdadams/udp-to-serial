@@ -1,0 +1,16 @@
+{
+    "name": "udp-to-serial",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Joseph Adams",
+    "contributors": [],
+    "dependencies": {
+        "serialport": "^9.0.7"
+    }
+}

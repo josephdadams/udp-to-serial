@@ -1,0 +1,5 @@
+{
+ "port_udp": 52381,
+ "port_serial": "/dev/ttyUSB0",
+ "baudRate": 9600
+}
