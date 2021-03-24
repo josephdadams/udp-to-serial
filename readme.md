@@ -14,7 +14,7 @@ DSD TECH SH-U10 USB to RS485 Converter with CP2102 Chip Compatible with Windows 
 
 ## Running via `pm2`
 * Install `pm2`: `sudo npm install pm2 -g`
-* Within the `udp-to-serial` folder, type: `pm2 startup index.js --name udp-to-serial`
+* Within the `udp-to-serial` folder, type: `pm2 start index.js --name udp-to-serial`
 * `pm2 startup`
 * `pm2 save`
 
